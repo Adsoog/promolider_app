@@ -1,0 +1,1 @@
+enum SegmentedLeg { right, left }
